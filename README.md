@@ -1,5 +1,4 @@
 ## Hi there 👋
-![暗色](https://raw.githubusercontent.com/ChenYX24/gihubSNK/output/github-contribution-grid-snake-dark.svg)
 ![亮色](https://raw.githubusercontent.com/ChenYX24/gihubSNK/output/github-contribution-grid-snake.svg)
 <!--
 **ChenYX24/ChenYX24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
