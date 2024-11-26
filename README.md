@@ -2,11 +2,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenYX24/gihubSNK/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenYX24/gihubSNK/output/github-contribution-grid-snake.svg" />
-
-作者：王翊珩
-链接：https://juejin.cn/post/7345746216151629862
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <!--
